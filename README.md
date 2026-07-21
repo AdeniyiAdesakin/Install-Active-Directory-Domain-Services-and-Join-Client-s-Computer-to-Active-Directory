@@ -123,7 +123,7 @@ It also demonstrated how Active Directory provides the centralized identity foun
 
 1. From **Server Manager**, select **Manage > Add Roles and Features**.
 
-   <p align="center"><img src="https://i.imgur.com/BFw3fUz.png" width="750" alt="Opening Add Roles and Features from Server Manager"></p>
+   <p align="center"><img src="https://i.imgur.com/q9Cul5y.png" width="750" alt="Opening Add Roles and Features from Server Manager"></p>
 
 2. Review the **Before You Begin** page and continue.
 
@@ -177,37 +177,37 @@ It also demonstrated how Active Directory provides the centralized identity foun
 
 7. Confirm that the prerequisite check completes successfully, then begin the installation.
 
-   <p align="center"><img src="https://i.imgur.com/3Lto4nb.png" width="750" alt="Completing the domain controller prerequisite check"></p>
+   <p align="center"><img src="https://i.imgur.com/FYbDnFe.png" width="750" alt="Completing the domain controller prerequisite check"></p>
 
 8. Allow the installation to finish and the server to restart.
 
-   <p align="center"><img src="https://i.imgur.com/l82jh6v.png" width="750" alt="Installing Active Directory Domain Services configuration"></p>
+   <p align="center"><img src="https://i.imgur.com/smKeyaI.png" width="750" alt="Installing Active Directory Domain Services configuration"></p>
 
 ### Join the Windows 11 Client to the Domain
 
 1. On the Windows 11 client, open **This PC > Properties**.
 
-   <p align="center"><img src="https://i.imgur.com/AavnsIH.png" width="750" alt="Opening Windows 11 system properties"></p>
+   <p align="center"><img src="https://i.imgur.com/8s95rlK.png" width="750" alt="Opening Windows 11 system properties"></p>
 
 2. From the **About** page, select **Domain or workgroup**.
 
-   <p align="center"><img src="https://i.imgur.com/E8xSesk.png" width="750" alt="Opening domain or workgroup settings"></p>
+   <p align="center"><img src="https://i.imgur.com/bMHWldz.png" width="750" alt="Opening domain or workgroup settings"></p>
 
 3. On the **Computer Name** tab, select **Change**.
 
-   <p align="center"><img src="https://i.imgur.com/kVdB6eC.png" width="750" alt="Changing Windows computer membership"></p>
+   <p align="center"><img src="https://i.imgur.com/3oDGfHr.png" width="750" alt="Changing Windows computer membership"></p>
 
 4. Select **Domain**, enter the Active Directory domain name, and confirm the change.
 
-   <p align="center"><img src="https://i.imgur.com/9V2xVK0.png" width="750" alt="Entering the Active Directory domain name"></p>
+   <p align="center"><img src="https://i.imgur.com/htjNZB0.png" width="750" alt="Entering the Active Directory domain name"></p>
 
 5. Enter credentials for an account authorized to join computers to the domain.
 
-   <p align="center"><img src="https://i.imgur.com/RKRRCVQ.png" width="750" alt="Authenticating the Windows domain join"></p>
+   <p align="center"><img src="https://i.imgur.com/HrTHI66.png" width="750" alt="Authenticating the Windows domain join"></p>
 
 6. Restart the workstation to complete the domain membership change.
 
-   <p align="center"><img src="https://i.imgur.com/VlT6HCs.png" width="750" alt="Restarting Windows after the domain join"></p>
+   <p align="center"><img src="https://i.imgur.com/Yq3je2z.png" width="750" alt="Restarting Windows after the domain join"></p>
 
 </details>
 
