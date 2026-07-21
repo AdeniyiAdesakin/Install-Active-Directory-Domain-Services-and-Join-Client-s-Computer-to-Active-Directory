@@ -73,7 +73,7 @@ Before joining the client to the domain, I confirmed that the workstation could 
 
 ### 4. Joined the Windows 11 Workstation to the Domain
 
-From the Windows 11 system properties, I changed the computer membership from a workgroup to the Active Directory domain. I supplied an authorized domain account when prompted and restarted the workstation to complete the change.
+From the Windows 11 system properties, I changed the computer membership from a workgroup to the Active Directory domain. I supplied an authorized domain account when prompted and restarted the workstation to complete the change. 
 
 <p align="center">
   <img src="https://i.imgur.com/xhvfeAA.png" width="750" alt="Joining the Windows 11 workstation to the Active Directory domain">
@@ -82,6 +82,13 @@ From the Windows 11 system properties, I changed the computer membership from a 
 <p align="center">
   <img src="https://i.imgur.com/ZbwHKgn.png" width="750" alt="Restart prompt after the domain membership change">
 </p>
+
+Finally, a quick run of "<i>ipconfig /all</i>" command on the client's machine shows it has successfully been added to the domain.
+
+<p align="center">
+  <img src="https://i.imgur.com/lPGkbQS.png" width="750" alt="Restart prompt after the domain membership change">
+</p>
+
 
 ## Validation
 
@@ -208,6 +215,12 @@ It also demonstrated how Active Directory provides the centralized identity foun
 6. Restart the workstation to complete the domain membership change.
 
    <p align="center"><img src="https://i.imgur.com/Yq3je2z.png" width="750" alt="Restarting Windows after the domain join"></p>
+
+7. And a quick run of "<i>ipconfig /all</i>" command on the client's machine shows it has successfully been added to the domain.
+
+<p align="center">
+  <img src="https://i.imgur.com/lPGkbQS.png" width="750" alt="Restart prompt after the domain membership change">
+</p>
 
 </details>
 
