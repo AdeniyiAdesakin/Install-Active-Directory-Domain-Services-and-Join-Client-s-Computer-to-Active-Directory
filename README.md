@@ -59,11 +59,11 @@ Using Server Manager, I added the **Active Directory Domain Services** role and 
 After installing AD DS, I promoted the server to a domain controller. I created a new forest, configured the root domain, set the Directory Services Restore Mode password, reviewed the configuration, and completed the prerequisite check before installation.
 
 <p align="center">
-  <img src="https://i.imgur.com/qhMIfKw.png" width="750" alt="Creating a new Active Directory forest">
+  <img src="https://i.imgur.com/aO1BRmT.png" width="750" alt="Creating a new Active Directory forest">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/3Lto4nb.png" width="750" alt="Active Directory Domain Services prerequisite check">
+  <img src="https://i.imgur.com/YRMdtzM.png" width="750" alt="Active Directory Domain Services prerequisite check">
 </p>
 
 ### 3. Prepared the Windows 11 Client
