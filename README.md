@@ -51,7 +51,7 @@ To address this, I deployed an Active Directory domain that allows administrator
 Using Server Manager, I added the **Active Directory Domain Services** role and its required management tools to Windows Server 2019. I reviewed the installation selections and completed the role installation successfully.
 
 <p align="center">
-  <img src="https://i.imgur.com/FJXu3HC.png" width="750" alt="Selecting the Active Directory Domain Services role in Server Manager">
+  <img src="https://i.imgur.com/FT1I3Y9.png" width="750" alt="Selecting the Active Directory Domain Services role in Server Manager">
 </p>
 
 ### 2. Promoted the Server to a Domain Controller
@@ -75,11 +75,11 @@ Before joining the client to the domain, I confirmed that the workstation could 
 From the Windows 11 system properties, I changed the computer membership from a workgroup to the Active Directory domain. I supplied an authorized domain account when prompted and restarted the workstation to complete the change.
 
 <p align="center">
-  <img src="https://i.imgur.com/9V2xVK0.png" width="750" alt="Joining the Windows 11 workstation to the Active Directory domain">
+  <img src="https://i.imgur.com/xhvfeAA.png" width="750" alt="Joining the Windows 11 workstation to the Active Directory domain">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/VlT6HCs.png" width="750" alt="Restart prompt after the domain membership change">
+  <img src="https://i.imgur.com/ZbwHKgn.png" width="750" alt="Restart prompt after the domain membership change">
 </p>
 
 ## Validation
