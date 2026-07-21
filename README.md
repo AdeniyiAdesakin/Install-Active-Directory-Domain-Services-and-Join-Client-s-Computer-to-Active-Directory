@@ -169,11 +169,11 @@ It also demonstrated how Active Directory provides the centralized identity foun
 
 5. Review the database, log, and SYSVOL paths.
 
-   <p align="center"><img src="https://i.imgur.com/VvvvYWw.png" width="750" alt="Reviewing Active Directory database and SYSVOL paths"></p>
+   <p align="center"><img src="https://i.imgur.com/VZcQUZt.png" width="750" alt="Reviewing Active Directory database and SYSVOL paths"></p>
 
 6. Review the domain-controller configuration.
 
-   <p align="center"><img src="https://i.imgur.com/S3odSml.png" width="750" alt="Reviewing the domain controller configuration"></p>
+   <p align="center"><img src="https://i.imgur.com/kqb6puh.png" width="750" alt="Reviewing the domain controller configuration"></p>
 
 7. Confirm that the prerequisite check completes successfully, then begin the installation.
 
