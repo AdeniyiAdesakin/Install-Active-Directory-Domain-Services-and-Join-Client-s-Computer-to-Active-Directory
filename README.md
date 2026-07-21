@@ -135,23 +135,23 @@ It also demonstrated how Active Directory provides the centralized identity foun
 
 3. Select **Role-based or feature-based installation**.
 
-   <p align="center"><img src="https://i.imgur.com/ZvY3YRt.png" width="750" alt="Selecting role-based or feature-based installation"></p>
+   <p align="center"><img src="https://i.imgur.com/rwFodZy.png" width="750" alt="Selecting role-based or feature-based installation"></p>
 
 4. Select the Windows Server 2019 system from the server pool.
 
-   <p align="center"><img src="https://i.imgur.com/Xq8ggfi.png" width="750" alt="Selecting the destination server"></p>
+   <p align="center"><img src="https://i.imgur.com/LSfwOAE.png" width="750" alt="Selecting the destination server"></p>
 
 5. Select **Active Directory Domain Services** and add the required features.
 
-   <p align="center"><img src="https://i.imgur.com/FJXu3HC.png" width="750" alt="Selecting Active Directory Domain Services"></p>
+   <p align="center"><img src="https://i.imgur.com/9JmTTWA.png" width="750" alt="Selecting Active Directory Domain Services"></p>
 
 6. Review the available features and continue.
 
-   <p align="center"><img src="https://i.imgur.com/6Ri1r9H.png" width="750" alt="Reviewing Windows Server features"></p>
+   <p align="center"><img src="https://i.imgur.com/cXeQ0tu.png" width="750" alt="Reviewing Windows Server features"></p>
 
 7. Confirm the selections and install the AD DS role.
 
-   <p align="center"><img src="https://i.imgur.com/qgNK3C5.png" width="750" alt="Confirming the Active Directory Domain Services installation"></p>
+   <p align="center"><img src="https://i.imgur.com/xQ0vSv4.png" width="750" alt="Confirming the Active Directory Domain Services installation"></p>
 
 ### Promote the Server to a Domain Controller
 
