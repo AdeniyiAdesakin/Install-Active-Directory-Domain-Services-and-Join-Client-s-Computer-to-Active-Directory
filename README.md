@@ -59,6 +59,11 @@ Using Server Manager, I added the **Active Directory Domain Services** role and 
 After installing AD DS, I promoted the server to a domain controller. I created a new forest, configured the root domain, set the Directory Services Restore Mode password, reviewed the configuration, and completed the prerequisite check before installation.
 
 <p align="center">
+  <img src="https://i.imgur.com/V3d5s9L.png" width="750" alt="Creating a new Active Directory forest">
+</p>
+
+
+<p align="center">
   <img src="https://i.imgur.com/aO1BRmT.png" width="750" alt="Creating a new Active Directory forest">
 </p>
 
@@ -104,10 +109,10 @@ I validated the deployment by confirming that:
 
 ## Security Considerations
 
-- Administrative and Directory Services Restore Mode credentials should never be exposed in screenshots or repository files.
+- Administrative and Directory Services Restore Mode credentials should never be exposed in documentation screenshots or repository files.
 - Production domain joins should use an account with only the permissions required for the task.
 - DNS, time synchronization, and firewall settings should be verified before troubleshooting Active Directory authentication.
-- Lab credentials and configurations should never be reused in a production environment.
+- Lab credentials and configurations should never be reused in a production/real environment.
 
 ## Key Takeaways
 
@@ -126,7 +131,7 @@ It also demonstrated how Active Directory provides the centralized identity foun
 
 2. Review the **Before You Begin** page and continue.
 
-   <p align="center"><img src="https://i.imgur.com/gaMZiFi.png" width="750" alt="Add Roles and Features introduction page"></p>
+   <p align="center"><img src="https://i.imgur.com/vELutQY.png" width="750" alt="Add Roles and Features introduction page"></p>
 
 3. Select **Role-based or feature-based installation**.
 
