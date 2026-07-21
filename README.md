@@ -58,10 +58,6 @@ Using Server Manager, I added the **Active Directory Domain Services** role and 
 
 After installing AD DS, I promoted the server to a domain controller. I created a new forest, configured the root domain, set the Directory Services Restore Mode password, reviewed the configuration, and completed the prerequisite check before installation.
 
-<p align="center">
-  <img src="https://i.imgur.com/V3d5s9L.png" width="750" alt="Creating a new Active Directory forest">
-</p>
-
 
 <p align="center">
   <img src="https://i.imgur.com/aO1BRmT.png" width="750" alt="Creating a new Active Directory forest">
@@ -157,19 +153,19 @@ It also demonstrated how Active Directory provides the centralized identity foun
 
 1. After the role installation completes, select **Promote this server to a domain controller**.
 
-   <p align="center"><img src="https://i.imgur.com/QxcyWQO.png" width="750" alt="Starting the domain controller promotion process"></p>
+   <p align="center"><img src="https://i.imgur.com/V3d5s9L.png" width="750" alt="Starting the domain controller promotion process"></p>
 
 2. Select **Add a new forest** and enter the root domain name for the lab.
 
-   <p align="center"><img src="https://i.imgur.com/qhMIfKw.png" width="750" alt="Adding a new Active Directory forest"></p>
+   <p align="center"><img src="https://i.imgur.com/aO1BRmT.png" width="750" alt="Adding a new Active Directory forest"></p>
 
 3. Configure the domain-controller options and set a strong Directory Services Restore Mode password.
 
-   <p align="center"><img src="https://i.imgur.com/W7ujg6C.png" width="750" alt="Configuring domain controller options"></p>
+   <p align="center"><img src="https://i.imgur.com/rDGoYIr.png" width="750" alt="Configuring domain controller options"></p>
 
 4. Review the generated NetBIOS domain name.
 
-   <p align="center"><img src="https://i.imgur.com/TvIq19K.png" width="750" alt="Reviewing the NetBIOS domain name"></p>
+   <p align="center"><img src="https://i.imgur.com/KP6Biwj.png" width="750" alt="Reviewing the NetBIOS domain name"></p>
 
 5. Review the database, log, and SYSVOL paths.
 
