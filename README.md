@@ -86,7 +86,7 @@ From the Windows 11 system properties, I changed the computer membership from a 
 Finally, a quick run of "<i>ipconfig /all</i>" command on the client's machine shows it has successfully been added to the domain.
 
 <p align="center">
-  <img src="https://i.imgur.com/lPGkbQS.png" width="750" alt="Restart prompt after the domain membership change">
+  <img src="https://i.imgur.com/CaM4QC1.png" width="750" alt="Confirmation on the clients machine">
 </p>
 
 
@@ -219,7 +219,7 @@ It also demonstrated how Active Directory provides the centralized identity foun
 7. And a quick run of "<i>ipconfig /all</i>" command on the client's machine shows it has successfully been added to the domain.
 
 <p align="center">
-  <img src="https://i.imgur.com/lPGkbQS.png" width="750" alt="Restart prompt after the domain membership change">
+  <img src="https://i.imgur.com/CaM4QC1.png" width="750" alt="Restart prompt after the domain membership change">
 </p>
 
 </details>
